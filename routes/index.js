@@ -8,3 +8,7 @@ router.use((req, res) => {
 });
 
 module.exports = router;
+
+// const User = require('./User');
+
+// module.exports = { User };

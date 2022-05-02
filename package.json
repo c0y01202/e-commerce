@@ -22,6 +22,7 @@
   "homepage": "https://github.com/c0y01202/e-commerce#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
+    "express": "^4.18.1",
     "mysql2": "^2.3.3",
     "sequelize": "^6.19.0"
   }
